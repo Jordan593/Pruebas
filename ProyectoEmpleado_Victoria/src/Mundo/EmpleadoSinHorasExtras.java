@@ -18,5 +18,7 @@ public class EmpleadoSinHorasExtras extends Empleado {
 	public String toString() {
 		return "EmpleadoSinHorasExtras [nombre=" + nombre + ", horasTrabajadas=" + horasTrabajadas + ", sueldoPorHora="
 				+ sueldoPorHora + "]";
+		
+		//simerpe
 	}
 }
