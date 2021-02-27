@@ -5,6 +5,7 @@ public class EmpleadoConHorasTriples extends Empleado{
 
 	// Atributos 
 	private int horasExtra;
+	private int wi;
 	
 	// Constructor 
 	public EmpleadoConHorasTriples(String nombre, int horasTrabajadas, double sueldoPorHora, boolean pagado) {
