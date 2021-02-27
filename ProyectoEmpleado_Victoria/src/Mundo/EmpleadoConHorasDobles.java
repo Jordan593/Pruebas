@@ -11,6 +11,7 @@ public class EmpleadoConHorasDobles extends Empleado{
 	}
 
 	// Métodos
+	//oo
 	public int getHorasExtra() {
 		return (horasTrabajadas - 40);
 	}
